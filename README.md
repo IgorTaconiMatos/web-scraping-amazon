@@ -1,14 +1,24 @@
-O objetivo desse programa é realizar um Web Scraping no site da amazon, apenas por motivos educacionais.
-Foi usado os dados da primeira página de busca quando se pesquisa por iphone. O nome e o preço foram armazenados em um arquivo csv.
-
-Para você rodar o software é necessário tem instalado em sua máquina o Python da versão 3 para cima.
-Instale as seguintes bibliotecas Python:
-	request - Requests é a única biblioteca HTTP não-GMO para Python, segura para consumo humano;
-	bs4 - Biblioteca para extrair dados de arquivos HTML e XML;
-
-Com:
+# Web Scraping Com Python no site da Amazon
+O objetivo desse programa é realizar um Web Scraping no site amazon.com.br.
+Foi coletado os dados da primeira página da busca por iphone. 
+O nome e o preço foram armazenados em um arquivo csv.
+## Começando
+Clone o projeto em sua máquina com o seguinte comando:
+```
+git clone https://github.com/IgorTaconiMatos/web-scraping-amazon.git
+```
+## Pré-requisitos
+Para você rodar o software é necessário tem instalado em sua máquina o __Python3.x.__, e as bibliotecas 
+requests e bs4.
+Após ter clonado o repositório, entre na pasta no diretório em que ele está contido e execute o código abaixo para instalar as bibliotecas.
+```
 pip install -r requirements.txt
-
-Para executar o código:
-	python table.py
+```
+## Executar
+Para executar o script use o código abaixo:
+```
+python table.py
+```
 Um arquivo com nome iphone_amazon.csv irá ser criado e pode ser aberto no excel.
+## Contribuindo
+Sinta-se à vontade para enviar pull requests para nós.
