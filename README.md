@@ -21,4 +21,4 @@ python table.py
 ```
 Um arquivo com nome iphone_amazon.csv irá ser criado e pode ser aberto no excel.
 ## Contribuindo
-Sinta-se à vontade para enviar pull requests para nós.
+Sinta-se à vontade para enviar pull requests.
