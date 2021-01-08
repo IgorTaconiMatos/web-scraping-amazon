@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Executar
 Para executar o script use o código abaixo:
 ```
-python table.py
+python create_table.py
 ```
 Um arquivo com nome iphone_amazon.csv irá ser criado e pode ser aberto no excel.
 ## Contribuindo
