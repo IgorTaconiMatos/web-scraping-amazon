@@ -9,7 +9,7 @@ git clone https://github.com/IgorTaconiMatos/web-scraping-amazon.git
 ```
 ## Pré-requisitos
 Para você rodar o software é necessário tem instalado em sua máquina o __Python3.x.__, e as bibliotecas 
-requests e bs4.
+`requests` e `bs4`.
 Após ter clonado o repositório, entre na pasta no diretório em que ele está contido e execute o código abaixo para instalar as bibliotecas.
 ```
 pip install -r requirements.txt
