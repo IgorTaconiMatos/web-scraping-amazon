@@ -1,4 +1,4 @@
-from teste_amazon import data
+from amazon_data import data
 
 with open('iphone_amazon.csv', 'w') as _file:
 	_file.write('Name; Price\n')
