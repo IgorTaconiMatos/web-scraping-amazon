@@ -3,9 +3,8 @@ O objetivo desse programa é realizar um Web Scraping no site amazon.com.br.
 Foi coletado os dados da primeira página da busca por iphone. 
 O nome e o preço foram armazenados em um arquivo csv.
 ## Começando
-Clone o projeto em sua máquina com o seguinte comando:
-```
-git clone https://github.com/IgorTaconiMatos/web-scraping-amazon.git
+Clone o projeto em sua máquina
+git clone https://github.com/igor-taconi/web-scraping-amazon.git
 ```
 ## Pré-requisitos
 Para você rodar o software é necessário tem instalado em sua máquina o __Python3.x.__, e as bibliotecas 
