@@ -5,7 +5,7 @@ O nome e o preço foram armazenados em um arquivo csv.
 ## Começando
 Clone o projeto em sua máquina
 ```
-git clone https://github.com/igor-taconi/web-scraping-amazon.git
+git clone https://github.com/taconi/web-scraping-amazon.git
 ```
 ## Pré-requisitos
 Para você rodar o software é necessário tem instalado em sua máquina o __Python3.6.+__.   
